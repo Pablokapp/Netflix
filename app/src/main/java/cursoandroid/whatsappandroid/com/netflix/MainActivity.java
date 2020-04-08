@@ -19,6 +19,8 @@ import cursoandroid.whatsappandroid.com.netflix.model.Movie;
 
 public class MainActivity extends AppCompatActivity {
 
+    int pastel = 10;
+
     MainAdapter mainAdapter;
     @Override
     protected void onCreate(Bundle savedInstanceState) {
