@@ -7,7 +7,7 @@
     tools:context=".MainActivity">
 
     <androidx.recyclerview.widget.RecyclerView
-        android:id="@+id/reclycler_view_main"
+        android:id="@+id/recycler_view_main"
         android:layout_width="0dp"
         android:layout_height="0dp"
         android:background="#000000"

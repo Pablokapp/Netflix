@@ -5,8 +5,8 @@ android {
 
 
     defaultConfig {
-        applicationId "cursoandroid.whatsappandroid.com.netflix"
-        minSdkVersion 17
+        applicationId 'cursoandroid.netflix'
+        minSdkVersion 22
         targetSdkVersion 28
         versionCode 1
         versionName "1.0"

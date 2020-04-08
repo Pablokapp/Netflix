@@ -4,7 +4,7 @@ import java.util.List;
 
 public class Category {
 private String name;
-private List<Movie> movie;
+private List<Movie> movies;
 
     public String getName() {
         return name;
@@ -14,11 +14,11 @@ private List<Movie> movie;
         this.name = name;
     }
 
-    public List<Movie> getMovie() {
-        return movie;
+    public List<Movie> getMovies() {
+        return movies;
     }
 
     public void setMovie(List<Movie> movie) {
-        this.movie = movie;
+        this.movies = movie;
     }
 }
